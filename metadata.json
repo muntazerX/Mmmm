@@ -1,0 +1,6 @@
+{
+  "name": "التربة القاتمة - Grim Soil",
+  "description": "لعبة تقمص أدوار نصية ملحمية في عالم التربة القاتمة مع نظام ذكاء اصطناعي ديناميكي، سياسة الممالك، وتوليد أحداث إجرائي فائق الخفة والكفاءة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
